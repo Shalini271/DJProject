@@ -1,0 +1,27 @@
+body { background-image: url("m.jpg");
+       background-size: cover; } 
+
+h1 {
+color:antiquewhite;
+text-shadow: 10px 5px 5px black;
+font-size: 35px;
+}
+
+.heads{
+color:white;
+font-size: 22px;
+}
+
+#songname{
+color:lightsteelblue;
+padding: 30px;
+font-size: 30px;
+}
+
+canvas{
+border-color: black;
+border-style: ridge;
+border-radius: 10px;
+border-width: 5px;
+margin-top: 20px;
+   }
